@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">jadwal mingguan</string>
+
+    <string name="senin">Senin</string>
+    <string name="selasa">Selasa</string>
+    <string name="rabu">Rabu</string>
+    <string name="kamis">Kamis</string>
+    <string name="jumat">Jumat</string>
+    <string name="sabtu">Sabtu</string>
+    <string name="minggu">Minggu</string>
+
+    <string name="detailSenin">* masuk kelas jam 10.00
+    \n* Masuk kelas jam 14.00
+    \n* Nonton kursus jam 16.00</string>
+    <string name="detailSelasa">* Masuk kelas jam 07.30
+    \n* Nonton kursus anroid development jam 11.00
+    \n* Bikin project jam 19.00</string>
+    <string name="detailRabu">Nonton kursus android development jam 08.00
+    \n* Kelas online jam 10.00
+    \n* Kelas online jam 15.00
+    \n* Bikin project jam 19.00</string>
+    <string name="detailKamis">* Masuk kelas jam 10.50
+    \n* Nonton kursus jam 14.00</string>
+    <string name="detailJumat">* Nonton kursus jam 08.00
+    \n* Masuk kelas online jam 13.00</string>
+    <string name="detailSabtu">Nonton kursus jam 08.00
+    \m* Main jam 19.00</string>
+    <string name="detailMinggu">Free</string>
+</resources>
